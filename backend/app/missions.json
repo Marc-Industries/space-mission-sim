@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "name": "string",
+        "launch_date": "string",
+        "budget": 0.0,
+        "crew": 0,
+        "status": "string"
+    },
+    {
+        "id": 0,
+        "name": "string",
+        "launch_date": "string",
+        "budget": 0.0,
+        "crew": 0,
+        "status": "string"
+    },
+    {
+        "id": 1,
+        "name": "Artemis I",
+        "launch_date": "2025-04-20",
+        "budget": 50000000.0,
+        "crew": 4,
+        "status": "planned"
+    },
+    {
+        "id": 1,
+        "name": "Artemis I",
+        "launch_date": "2025-04-20",
+        "budget": 50000000.0,
+        "crew": 4,
+        "status": "planned"
+    },
+    {
+        "id": 0,
+        "name": "string",
+        "launch_date": "string",
+        "budget": 0.0,
+        "crew": 0,
+        "status": "string"
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Missione Alpha Centauri",
+  "launch_date": "2032-07-15",
+  "budget": 750000000,
+  "crew": 4,
+  "payload": {
+    "type": "Satellite",
+    "weight": 2000
+  },
+  "status": "scheduled"
+}

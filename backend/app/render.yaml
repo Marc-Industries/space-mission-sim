@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: space-backend
+    env: python
+    region: oregon
+    plan: free
+    branch: main
+    rootDir: backend
+    buildCommand: ""
+    startCommand: ./start.sh
+    autoDeploy: true
